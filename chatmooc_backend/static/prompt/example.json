@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": "Paris"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answers": "Berlin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answers": "Rome"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answers": "Madrid"
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "answers": "London"
+  },
+  {
+    "question": "What is the capital of the United States?",
+    "answers": "Washington D.C."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answers": "Ottawa"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": "Canberra"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answers": "Tokyo"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answers": "Beijing"
+  }
+]

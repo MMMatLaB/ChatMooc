@@ -1,0 +1,9 @@
+_type: prompt
+
+input_variables:
+
+    ["adjective", "content"]
+
+template:
+
+    告诉我一个 {adjective} 笑话关于 {content}.
